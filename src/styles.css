@@ -1,0 +1,28 @@
+#about .container {
+  text-align: center;
+}
+
+#about h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#about .row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+#about .col-md-4 {
+  margin: 15px;
+  text-align: center;
+}
+
+#about ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#about ul li {
+  margin: 8px 0;
+}
